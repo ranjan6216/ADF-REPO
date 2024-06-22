@@ -36,7 +36,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/pipelineNew_Feature1')]",
+			"name": "[concat(parameters('factoryName'), '/pipelineNew_Feature2')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
